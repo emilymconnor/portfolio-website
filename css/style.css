@@ -6,3 +6,6 @@ Headings: #03256c
 Body: #5c574f
 Links/Accent: #ee5622
 */
+body {
+  font-family: 'Lato', sans-serif;
+}
