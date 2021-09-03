@@ -78,6 +78,11 @@ a:active { /* selected link */
   opacity: 2; /* Darken button opacity when selected */
   text-decoration: none;
 }
+}
+.button:visited {
+  background-color: #ee5622;
+  color: #ffffff;
+}
 .button.contact {
   background-color: transparent;
   color: #ee5622;
