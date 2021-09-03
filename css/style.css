@@ -75,6 +75,6 @@ a:active { /* selected link */
   text-decoration: none;
 }
 .button:active {
-  color: #ad401a; 
+  opacity: 2; 
   text-decoration: none;
 }
