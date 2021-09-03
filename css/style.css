@@ -70,6 +70,10 @@ a:active { /* selected link */
   border-bottom: 2px solid #994c30; /* width of the border, type, color */
   transition: 0.2s opacity;
 }
+.button:visited {
+  background-color: #ee5622;
+  color: #ffffff;
+}
 .button:hover {
   opacity: 0.8; /* Reduces the opacity of the button to 80% */
   text-decoration: none;
@@ -78,11 +82,7 @@ a:active { /* selected link */
   opacity: 2; /* Darken button opacity when selected */
   text-decoration: none;
 }
-}
-.button:visited {
-  background-color: #ee5622;
-  color: #ffffff;
-}
+
 .button.contact {
   background-color: transparent;
   color: #ee5622;
