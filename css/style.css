@@ -80,6 +80,7 @@ a:active { /* selected link */
 }
 }
 .button:visited {
+  background-color: #ee5622;
   color: #ffffff;
 }
 .button.contact {
