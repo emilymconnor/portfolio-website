@@ -44,3 +44,17 @@ h4 {
 img {
   width: 100%;
 }
+a {
+  color: #ff7f50;
+  text-decoration: none; /* No underlining */
+}
+a:hover {
+  color: #ee5622;
+  text-decoration: underline; /* Underlining when hovering over a link */
+}
+a:visited { /* visited link */
+  color: #cdc9c3;
+}
+a:active { /* selected link */
+  color: #ee5622;
+}
