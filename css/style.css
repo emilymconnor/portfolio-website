@@ -7,17 +7,37 @@ Body: #5c574f
 Links/Accent: #ee5622
 */
 body {
+  background-color: #fbf7f0;
   font-family: 'Lato', sans-serif;
+  font-size: 16px; /* Sets the font size to 16px */
+  font-weight: 300; /* Sets the font weight to 300 */
+  line-height: 1.6; /* Sets the line-height to 1.6 * the font-size */
+  color: #5c574f;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.4;
+  font-family: 'Fraunces', serif;
 }
 h1 {
-  font-family: 'Fraunces', serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: #03256c;
 }
+
 h2 {
-  font-family: 'Fraunces', serif;
+  font-size: 22px;
+  font-weight: 500;
+  color: #03256c;
 }
+
 h3 {
-  font-family: 'Fraunces', serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #03256c;
 }
 h4 {
-  font-family: 'Fraunces', serif;
+  font-size: 18px;
+  font-weight: 500;
+  color: #03256c;
 }
