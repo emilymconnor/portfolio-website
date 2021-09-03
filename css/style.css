@@ -5,6 +5,7 @@ Primary: #cdc9c3
 Headings: #03256c
 Body: #5c574f
 Links/Accent: #ee5622
+Selected Links: #ad401a
 */
 body {
   background-color: #fbf7f0;
@@ -58,4 +59,18 @@ a:focus {
 }
 a:active { /* selected link */
   color: #ad401a;
+}
+.button {
+  display: inline-block; /* since the <a> tag is inline by default, we need to change this to inline-block, but more on this in the next exercise */
+  background-color: #cdc9c3;
+  color: #ffffff; /* needed to override the default link color */
+  font-weight: 400;
+  padding: 10px;
+  border-radius: 3px;
+  border-bottom: 2px solid #994c30; /* width of the border, type, color */
+  transition: 0.2s opacity;
+}
+.button:hover {
+  opacity: 0.8; /* Reduces the opacity of the button to 80% */
+  text-decoration: none;
 }
