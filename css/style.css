@@ -75,6 +75,6 @@ a:active { /* selected link */
   text-decoration: none;
 }
 .button:active {
-  opacity: 2; 
+  opacity: 2; /* Darken button opacity when selected */
   text-decoration: none;
 }
