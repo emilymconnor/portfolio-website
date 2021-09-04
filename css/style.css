@@ -1,7 +1,7 @@
 /*
 Colors used:
 Background: #fbf7f0
-Primary: #cdc9c3
+Header: #eaebed
 Headings: #03256c
 Body: #5c574f
 Links/Accent: #ee5622
@@ -97,4 +97,5 @@ header {
   background-color: #eaebed;
   padding: 10px;
   margin: 10px;
+  border-bottom: 3px solid #4a4a4a;
 }
