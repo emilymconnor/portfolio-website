@@ -134,8 +134,7 @@ nav > ul > li > a {
 nav > ul > li > a:visited {
   color: #ee5622;
 }
-nav > ul > li > a:hover,
-a:focus {
+nav > ul > li > a:hover, a:focus {
   color: #ee5622;
   text-decoration: underline;
 }
