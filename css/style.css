@@ -109,3 +109,6 @@ a:active { /* selected link */
 #main h1 {
   text-align: center; /* Centers text */
 }
+.logo {
+  max-width: 250px;
+}
