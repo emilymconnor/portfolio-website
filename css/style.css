@@ -96,3 +96,7 @@ a:active { /* selected link */
   background-color: #ee5622;
   color: #ffffff;
 }
+/* Layout styling */
+.container {
+  padding: 0 15px;
+}
