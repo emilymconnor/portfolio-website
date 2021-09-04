@@ -123,9 +123,9 @@ header {
   background-color: #eabda8;
   text-align: center;
   padding: 10px 0;
-  -webkit-box-shadow: 7px 7px 24px 0px rgba(50, 50, 50, 0.68);
-  -moz-box-shadow:    7px 7px 24px 0px rgba(50, 50, 50, 0.68);
-  box-shadow:         7px 7px 24px 0px rgba(50, 50, 50, 0.68);
+  -webkit-box-shadow: 7px 7px 24px 0px rgba(50, 50, 50, 0.41);
+  -moz-box-shadow:    7px 7px 24px 0px rgba(50, 50, 50, 0.41);
+  box-shadow:         7px 7px 24px 0px rgba(50, 50, 50, 0.41);
 }
 nav {
   display: inline-block;
