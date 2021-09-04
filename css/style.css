@@ -112,6 +112,10 @@ a:active { /* selected link */
 #hero {
   background-color: #eabda8;
 }
+#hero h1 {
+  margin: 0;
+  padding: 0.67em 0;
+}
 .logo {
   max-width: 250px;
   text-align: center;
