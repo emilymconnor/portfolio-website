@@ -93,3 +93,6 @@ a:active { /* selected link */
   background-color: #ee5622;
   color: #ffffff;
 }
+header {
+  background-color: #cdc9c3;
+}
