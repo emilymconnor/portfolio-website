@@ -129,7 +129,18 @@ nav > ul > li > a {
   padding: 0 15px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #4a4a4a;
+  color: #03256c;
+}
+nav > ul > li > a:visited {
+  color: #ee5622;
+}
+nav > ul > li > a:hover,
+a:focus {
+  color: #ee5622;
+  text-decoration: underline;
+}
+nav > ul > li > a:active {
+  color: #ad401a;
 }
 .social {
   max-width: 30px;
