@@ -95,4 +95,5 @@ a:active { /* selected link */
 }
 header {
   background-color: #cdc9c3;
+  padding: 10px;
 }
