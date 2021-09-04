@@ -132,5 +132,6 @@ nav > ul > li > a {
   color: #4a4a4a;
 }
 .social {
-  max-width: 50px;
+  max-width: 25px;
   text-align: center;
+  display: inline-block;
