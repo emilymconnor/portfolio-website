@@ -99,3 +99,6 @@ header {
   margin: 10px;
   border-bottom: 3px solid #4a4a4a;
 }
+header {
+  position: fixed;
+}
