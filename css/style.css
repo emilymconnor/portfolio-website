@@ -111,4 +111,10 @@ a:active { /* selected link */
 }
 .logo {
   max-width: 250px;
+  text-align: center;
+}
+header {
+  background-color: #ffe4c4;
+  text-align: center;
+  padding: 10px 0;
 }
