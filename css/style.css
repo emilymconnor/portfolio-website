@@ -7,6 +7,9 @@ Body: #5c574f
 Links/Accent: #ee5622
 Selected Links: #ad401a
 */
+* {
+  box-sizing: border-box;
+}
 body {
   background-color: #fbf7f0;
   font-family: 'Lato', sans-serif;
