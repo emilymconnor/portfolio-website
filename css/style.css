@@ -160,6 +160,9 @@ nav > ul > li > a:active {
 main {
   padding-top: 300px;
 }
+footer {
+  text-align: center;
+}
 .social {
   max-width: 30px;
   text-align: center;
