@@ -106,7 +106,7 @@ a:active { /* selected link */
   border-bottom: 3px solid #eaebed; /* why isn't this showing up? */
 }
 #work .row { padding-bottom: 25px; border-bottom: 1px solid #4a4a4a; }
-#hero h1 {
+#hero {
   text-align: center; /* Centers text */
 }
 #hero {
