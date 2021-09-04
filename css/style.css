@@ -124,9 +124,9 @@ header {
   text-align: center;
   padding: 10px 0;
   position: relative;
-  -webkit-box-shadow: 7px 7px 24px 0px rgba(50, 50, 50, 0.41);
-  -moz-box-shadow:    7px 7px 24px 0px rgba(50, 50, 50, 0.41);
-  box-shadow:         7px 7px 24px 0px rgba(50, 50, 50, 0.41);
+  -webkit-box-shadow: 7px 7px 24px 0px rgba(50, 50, 50, 0.36);
+  -moz-box-shadow:    7px 7px 24px 0px rgba(50, 50, 50, 0.36);
+  box-shadow:         7px 7px 24px 0px rgba(50, 50, 50, 0.36);
 }
 nav {
   display: inline-block;
