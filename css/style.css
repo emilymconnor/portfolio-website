@@ -97,6 +97,9 @@ a:active { /* selected link */
   color: #ffffff;
 }
 /* Layout styling */
+[class*="col-"] {
+  float: left;
+}
 .container {
   padding: 0 15px;
 }
@@ -164,9 +167,6 @@ nav > ul > li > a:active {
 }
 main {
   padding-top: 200px;
-}
-[class*="col-"] {
-  float: left;
 }
 ul {
   list-style-position: inside;
