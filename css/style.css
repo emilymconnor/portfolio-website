@@ -165,6 +165,9 @@ nav > ul > li > a:active {
 main {
   padding-top: 200px;
 }
+[class*="col-"] {
+  float: left;
+}
 ul {
   list-style-position: inside;
   text-align: center;
@@ -176,9 +179,6 @@ footer {
   max-width: 30px;
   text-align: center;
   display: inline-block;
-}
-[class*="col-"] {
-  float: left;
 }
 /* ==============================
 Medium devices (640px and larger)
