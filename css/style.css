@@ -124,7 +124,7 @@ header {
   text-align: center;
   padding: 10px 0;
   position: fixed;
-  max-width: 100%;
+  width: 100%;
   -webkit-box-shadow: 7px 7px 24px 0px rgba(50, 50, 50, 0.36);
   -moz-box-shadow:    7px 7px 24px 0px rgba(50, 50, 50, 0.36);
   box-shadow:         7px 7px 24px 0px rgba(50, 50, 50, 0.36);
@@ -167,3 +167,4 @@ footer {
   max-width: 30px;
   text-align: center;
   display: inline-block;
+}
