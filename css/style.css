@@ -171,7 +171,7 @@ main {
 [class*="svg"] {
   width: 100%;
   max-width: 100%;
-  height: auto;  
+  height: auto;
 }
 ul {
   list-style-position: inside;
@@ -232,4 +232,13 @@ width: 40%;
 X-large devices (1440px or larger)
 ================================= */
 @media only screen and (min-width: 1440px) {
+}
+/* Animation */
+@keyframes color-change {
+  0% {fill: #edc655;}
+  50% {fill: #fcffad;}
+  100% {fill: #f76414;}
+}
+.sun {
+  animation: 4s color-change infinite alternate linear;
 }
