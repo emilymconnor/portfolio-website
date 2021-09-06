@@ -168,6 +168,11 @@ main {
   float: left;
   padding: 10px
 }
+[class*="svg"] {
+  width: 100%;
+  max-width: 100%;
+  height: auto;  
+}
 ul {
   list-style-position: inside;
   text-align: left;
