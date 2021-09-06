@@ -109,7 +109,7 @@ a:active { /* selected link */
   clear: both;
   display: table;
 }
-#work .row { padding-bottom: 25px; border-bottom: 1px solid #4a4a4a; }
+#work .row { padding-bottom: 25px; }
 #hero, #main {
   text-align: center; /* Centers text */
 }
