@@ -202,6 +202,7 @@ Medium devices (640px and larger)
     .col-md-6 {
   width: 50%;
 }
+#about-page h3 { margin-top: 0;}
 }
 /* ==============================
 Large devices (1024px or larger)
