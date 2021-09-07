@@ -188,6 +188,7 @@ footer {
   max-width: 30px;
   text-align: center;
   display: inline-block;
+  padding: 10px;
 }
 /* ==============================
 Medium devices (640px and larger)
