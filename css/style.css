@@ -127,6 +127,7 @@ header {
   background-color: #eabda8;
   text-align: center;
   padding: 10px 0;
+  margin: auto;
   position: fixed;
   width: 100%;
   -webkit-box-shadow: 7px 7px 24px 0px rgba(50, 50, 50, 0.36);
