@@ -112,6 +112,7 @@ a:active { /* selected link */
 #work .row { padding-bottom: 25px; }
 #hero, #main {
   text-align: center; /* Centers text */
+  padding: 200px
 }
 #hero, #main {
   background-color: #eabda8;
