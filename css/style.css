@@ -187,7 +187,7 @@ footer {
 .social {
   max-width: 30px;
   text-align: center;
-  display: inline-block;
+  display: inline;
   padding: 10px;
 }
 /* ==============================
