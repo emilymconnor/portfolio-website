@@ -162,7 +162,7 @@ nav > ul > li > a:active {
   color: #ad401a;
 }
 main {
-  padding-top: 100px;
+  padding-top: 200px;
 }
 [class*="col-"] {
   float: left;
