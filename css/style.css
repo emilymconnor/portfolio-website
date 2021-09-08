@@ -162,7 +162,6 @@ nav > ul > li > a:active {
   color: #ad401a;
 }
 main {
-  margin-top: 20px;
   padding-top: 20px;
 }
 [class*="col-"] {
