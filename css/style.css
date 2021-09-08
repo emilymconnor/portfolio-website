@@ -163,7 +163,7 @@ nav > ul > li > a:active {
 }
 main {
   margin-top: 20px;
-  padding-top: 400px;
+  padding-top: 20px;
 }
 [class*="col-"] {
   float: left;
