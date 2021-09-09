@@ -203,6 +203,9 @@ Medium devices (640px and larger)
     float: right;
     margin-top: 4px;
   }
+  nav > ul > li {
+    display: inline-block;
+  }
   main {
     padding-top: 250px;
   }
