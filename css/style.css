@@ -157,6 +157,9 @@ a:focus {
 nav > ul > li > a:active {
   color: #ad401a;
 }
+.navtoggle li:not(:last-child) {
+  display: none;
+}
 main {
   padding-top: 200px;
 }
@@ -206,6 +209,12 @@ Medium devices (640px and larger)
   nav > ul > li {
     display: inline-block;
   }
+  .navtoggle li:not(:last-child) {
+  display: inline-block;
+}
+.navtoggle li:last-child {
+  display: none;
+}
   main {
     padding-top: 250px;
   }
