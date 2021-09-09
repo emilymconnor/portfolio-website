@@ -135,6 +135,7 @@ header {
 nav > ul {
   list-style-type: none;
   padding: 0;
+  margin: 0;
 }
 nav > ul > li > a {
   padding: 0 15px;
@@ -216,6 +217,9 @@ Medium devices (640px and larger)
   nav > ul > li {
     display: inline-block;
   }
+  nav > ul {
+  margin: 1em 0;
+}
   .navtoggle li:not(:last-child) {
   display: inline-block;
 }
