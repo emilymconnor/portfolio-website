@@ -160,6 +160,16 @@ nav > ul > li > a:active {
 .navtoggle li:not(:last-child) {
   display: none;
 }
+.navtoggle, .navtoggle.responsive {
+  position: relative;
+}
+.navtoggle li .icon {
+  position: absolute;
+  right: 0;
+  top: 2px;
+  font-size: 20px;
+  color: #03256c;
+}
 main {
   padding-top: 200px;
 }
