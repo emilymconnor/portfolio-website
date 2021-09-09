@@ -125,7 +125,6 @@ a:active { /* selected link */
 }
 header {
   background-color: #eabda8;
-  text-align: center;
   padding: 10px 0;
   position: fixed;
   width: 100%;
