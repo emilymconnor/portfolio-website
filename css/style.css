@@ -169,6 +169,7 @@ nav > ul > li > a:active {
   top: 2px;
   font-size: 20px;
   color: #03256c;
+  padding-right: 0;
 }
 main {
   padding-top: 200px;
