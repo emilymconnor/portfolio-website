@@ -215,6 +215,9 @@ Medium devices (640px and larger)
 }
 #about-page h3 { margin-top: 0;}
 }
+.logo {
+  min-width: 641px
+}
 /* ==============================
 Large devices (1024px or larger)
 ================================= */
